@@ -1,0 +1,181 @@
+{
+  "pays": "Bulgarie",
+  "drapeau": "🇧🇬",
+  "symbole": "🌹",
+  "titre": "Plovdiv, Perle des Balkans : Voyage au Cœur de l'Histoire et de l'Art",
+  "budget_total": "720€",
+  "duree": "4 jours",
+  "temps_vol": "environ 5h avec escale et transfert depuis Paris, France",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas dans l'Ancienne Plovdiv",
+      "legende": "Après votre arrivée et installation, plongez en douceur dans l'atmosphère unique de Plovdiv. Laissez-vous charmer par les ruelles colorées du quartier de Kapana, un véritable musée à ciel ouvert où l'art urbain rencontre l'histoire. Une première immersion qui éveille les sens et promet de belles découvertes.",
+      "lieu": "Plovdiv",
+      "activites": [
+        "🛬 <strong>Arrivée à Plovdiv et installation à l'hôtel</strong>: Prenez le temps de vous installer confortablement après votre voyage. Votre hôtel 3 étoiles vous attend pour un repos bien mérité avant de débuter l'exploration.",
+        "🚶‍♂️ <strong>Balade découverte dans le quartier de Kapana</strong>: Flânez dans ce quartier \"créatif\" vibrant, connu pour ses ateliers d'artistes, ses boutiques artisanales et ses cafés branchés. C'est l'endroit idéal pour ressentir le pouls artistique de la ville."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La monnaie locale est le Lev bulgare (BGN). 1 EUR équivaut à environ 1.95 BGN."
+        },
+        {
+          "symbole": "🚏",
+          "titre": "Transport",
+          "texte": "Depuis l'aéroport de Sofia, des bus réguliers relient Plovdiv en environ 2h. Les billets sont abordables."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Immersion dans l'Antiquité et la Vieille Ville",
+      "legende": "Remontez le temps en explorant les vestiges romains majestueux de Plovdiv, témoins d'un passé glorieux. Ensuite, perdez-vous dans le dédale des rues pavées de la Vieille Ville, où chaque maison raconte une histoire et chaque panorama offre une vue imprenable sur la ville moderne.",
+      "lieu": "Plovdiv",
+      "activites": [
+        "🏛️ <strong>Visite du Théâtre Antique de Plovdiv</strong>: Admirez ce chef-d'œuvre architectural romain remarquablement conservé, encore utilisé aujourd'hui pour des spectacles. Sa vue panoramique sur la ville est à couper le souffle.",
+        "🚶‍♀️ <strong>Exploration de la Vieille Ville (Stariyat Grad)</strong>: Déambulez parmi les maisons colorées de la Renaissance bulgare, les églises historiques et les musées. C'est un voyage visuel unique à travers les siècles.",
+        "🌄 <strong>Coucher de soleil depuis Nebet Tepe</strong>: Gravissez l'une des sept collines de Plovdiv pour profiter d'une vue imprenable sur la ville au crépuscule. C'est un moment magique pour apprécier l'étendue de Plovdiv."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📜",
+          "titre": "Histoire",
+          "texte": "Plovdiv est l'une des plus anciennes villes d'Europe, habitée sans interruption depuis plus de 8000 ans."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "Goûtez la \"shopska salata\", une salade fraîche et colorée, incontournable de la cuisine bulgare."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🎨",
+      "titre": "Art, Culture et Panoramas Urbains",
+      "legende": "Plongez plus profondément dans la richesse culturelle de Plovdiv en visitant ses musées emblématiques, qui racontent l'histoire et les traditions bulgares. Terminez la journée par une ascension pour admirer la ville sous un autre angle, offrant une perspective unique sur son mélange d'ancien et de moderne.",
+      "lieu": "Plovdiv",
+      "activites": [
+        "🎨 <strong>Découverte du Musée Ethnographique Régional</strong>: Explorez ce musée fascinant, logé dans une magnifique maison de la Renaissance bulgare, qui présente les coutumes, l'artisanat et les costumes traditionnels. C'est une immersion authentique dans le folklore local.",
+        "⛪ <strong>Visite de l'Église Saints Constantin et Hélène</strong>: Découvrez l'une des plus anciennes églises de Plovdiv, avec ses icônes précieuses et son architecture remarquable. Elle offre un aperçu de l'art religieux orthodoxe.",
+        "🕰️ <strong>Ascension de la colline de Sahat Tepe (Tour de l'Horloge)</strong>: Montez jusqu'à la tour de l'horloge pour une vue panoramique à 360 degrés sur Plovdiv. C'est un excellent point d'observation pour s'orienter et admirer l'urbanisme de la ville."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "☕",
+          "titre": "Pause Café",
+          "texte": "Plovdiv regorge de cafés charmants, notamment dans Kapana. Profitez-en pour déguster un café turc ou un \"boza\"."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Chaussures",
+          "texte": "Prévoyez des chaussures confortables, la Vieille Ville et les collines sont pavées et peuvent être glissantes."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "✈️",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez de vos dernières heures à Plovdiv pour quelques emplettes ou une dernière visite coup de cœur. Emportez avec vous les souvenirs de cette ville millénaire, riche en histoire, en art et en atmosphère chaleureuse. Un dernier regard sur ses charmes avant de prendre le chemin du retour.",
+      "lieu": "Plovdiv",
+      "activites": [
+        "🛍️ <strong>Shopping de souvenirs sur la rue Knyaz Alexander I</strong>: Parcourez la principale rue piétonne pour trouver des souvenirs artisanaux, des produits locaux ou des cadeaux. C'est l'occasion de ramener un petit bout de Plovdiv chez vous.",
+        "🚶‍♂️ <strong>Dernière balade et déjeuner typique</strong>: Profitez d'une dernière promenade dans un quartier que vous avez aimé ou découvrez un nouveau coin. Savourez un dernier repas bulgare dans un restaurant local.",
+        "✈️ <strong>Départ de Plovdiv</strong>: Il est temps de quitter cette ville fascinante, la tête pleine de souvenirs. Organisez votre transfert vers l'aéroport de Sofia pour votre vol retour."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les produits à base de rose (huile, cosmétiques) sont des spécialités bulgares très appréciées."
+        },
+        {
+          "symbole": "🛬",
+          "titre": "Transfert",
+          "texte": "Réservez votre bus ou taxi pour l'aéroport de Sofia à l'avance pour éviter tout stress."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "280€/pers (Vol A/R Paris-Sofia en classe économique, incluant le transfert bus A/R Sofia-Plovdiv)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "20€/pers (Transports locaux à Plovdiv, bus/taxis occasionnels)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "140€/pers (4 jours, 35€/jour pour des repas variés et de qualité moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "180€/pers (3 nuits en hôtel 3 étoiles, base chambre double partagée, soit 60€/nuit)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "100€/pers (Entrées musées, sites historiques, activités culturelles)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'Avril, Mai, Septembre et Octobre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Plovdiv compte environ 340 000 habitants, ce qui en fait la deuxième plus grande ville de Bulgarie.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "La Bulgarie est membre de l'Union Européenne. Le Lev bulgare (BGN) est la monnaie officielle.",
+      "symbole": "🇧🇬"
+    },
+    {
+      "titre": "Plovdiv a été Capitale Européenne de la Culture en 2019, mettant en lumière sa richesse historique et artistique.",
+      "symbole": "🌟"
+    },
+    {
+      "titre": "La ville est construite sur sept collines, bien que certaines soient moins distinctes aujourd'hui.",
+      "symbole": "⛰️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Bulgarie",
+      "url": "https://bulgariatravel.org/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Informations touristiques sur Plovdiv",
+      "titre": "Visit Plovdiv",
+      "url": "https://www.visitplovdiv.com/",
+      "symbole": "🗺️"
+    },
+    {
+      "legende": "Informations sur l'aéroport de Sofia",
+      "titre": "Aéroport de Sofia",
+      "url": "https://www.sofia-airport.bg/",
+      "symbole": "✈️"
+    }
+  ]
+}
